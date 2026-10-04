@@ -1,0 +1,772 @@
+{
+ "subject": "Accountancy",
+ "book": "NCERT Accountancy - Financial Accounting Part I (Class XI)",
+ "chapters": [
+  {
+   "chapter": 1,
+   "title": "Introduction to Accounting",
+   "file": "keac101.pdf",
+   "pdf_pages": 24,
+   "sections": [
+    {
+     "no": "1.1",
+     "title": "Meaning of Accounting",
+     "level": 1
+    },
+    {
+     "no": "1.1.1",
+     "title": "Economic Events",
+     "level": 2
+    },
+    {
+     "no": "1.1.2",
+     "title": "Identification, Measurement, Recording and Communication",
+     "level": 2
+    },
+    {
+     "no": "1.1.3",
+     "title": "Organisation",
+     "level": 2
+    },
+    {
+     "no": "1.1.4",
+     "title": "Interested Users of Information",
+     "level": 2
+    },
+    {
+     "no": "1.2",
+     "title": "Accounting as a Source of Information",
+     "level": 1
+    },
+    {
+     "no": "1.2.1",
+     "title": "Qualitative Characteristics of Accounting Information",
+     "level": 2
+    },
+    {
+     "no": "1.3",
+     "title": "Objectives of Accounting",
+     "level": 1
+    },
+    {
+     "no": "1.3.1",
+     "title": "Maintenance of Records of Business Transactions",
+     "level": 2
+    },
+    {
+     "no": "1.3.2",
+     "title": "Calculation of Profit and Loss",
+     "level": 2
+    },
+    {
+     "no": "1.3.3",
+     "title": "Depiction of Financial Position",
+     "level": 2
+    },
+    {
+     "no": "1.3.4",
+     "title": "Providing Accounting Information to its Users",
+     "level": 2
+    },
+    {
+     "no": "1.4",
+     "title": "Role of Accounting",
+     "level": 1
+    },
+    {
+     "no": "1.5",
+     "title": "Basic Terms in Accounting",
+     "level": 1
+    },
+    {
+     "no": "1.5.1",
+     "title": "Entity",
+     "level": 2
+    },
+    {
+     "no": "1.5.2",
+     "title": "Transaction",
+     "level": 2
+    },
+    {
+     "no": "1.5.3",
+     "title": "Assets",
+     "level": 2
+    },
+    {
+     "no": "1.5.4",
+     "title": "Liabilities",
+     "level": 2
+    },
+    {
+     "no": "1.5.5",
+     "title": "Capital",
+     "level": 2
+    },
+    {
+     "no": "1.5.6",
+     "title": "Sales",
+     "level": 2
+    },
+    {
+     "no": "1.5.7",
+     "title": "Revenues",
+     "level": 2
+    },
+    {
+     "no": "1.5.8",
+     "title": "Expenses",
+     "level": 2
+    },
+    {
+     "no": "1.5.9",
+     "title": "Expenditure",
+     "level": 2
+    },
+    {
+     "no": "1.5.10",
+     "title": "Profit",
+     "level": 2
+    },
+    {
+     "no": "1.5.11",
+     "title": "Gain",
+     "level": 2
+    },
+    {
+     "no": "1.5.12",
+     "title": "Loss",
+     "level": 2
+    },
+    {
+     "no": "1.5.13",
+     "title": "Discount",
+     "level": 2
+    },
+    {
+     "no": "1.5.14",
+     "title": "Voucher",
+     "level": 2
+    },
+    {
+     "no": "1.5.15",
+     "title": "Goods",
+     "level": 2
+    },
+    {
+     "no": "1.5.16",
+     "title": "Drawings",
+     "level": 2
+    },
+    {
+     "no": "1.5.17",
+     "title": "Purchases",
+     "level": 2
+    },
+    {
+     "no": "1.5.18",
+     "title": "Stock",
+     "level": 2
+    },
+    {
+     "no": "1.5.19",
+     "title": "Debtors",
+     "level": 2
+    },
+    {
+     "no": "1.5.20",
+     "title": "Creditors",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "chapter": 2,
+   "title": "Theory Base of Accounting",
+   "file": "keac102.pdf",
+   "pdf_pages": 21,
+   "sections": [
+    {
+     "no": "2.1",
+     "title": "Generally Accepted Accounting Principles",
+     "level": 1
+    },
+    {
+     "no": "2.2",
+     "title": "Basic Accounting Concepts",
+     "level": 1
+    },
+    {
+     "no": "2.2.1",
+     "title": "Business Entity Concept",
+     "level": 2
+    },
+    {
+     "no": "2.2.2",
+     "title": "Money Measurement Concept",
+     "level": 2
+    },
+    {
+     "no": "2.2.3",
+     "title": "Going Concern Concept",
+     "level": 2
+    },
+    {
+     "no": "2.2.4",
+     "title": "Accounting Period Concept",
+     "level": 2
+    },
+    {
+     "no": "2.2.5",
+     "title": "Cost Concept",
+     "level": 2
+    },
+    {
+     "no": "2.2.6",
+     "title": "Dual Aspect Concept",
+     "level": 2
+    },
+    {
+     "no": "2.2.7",
+     "title": "Revenue Recognition (Realisation) Concept",
+     "level": 2
+    },
+    {
+     "no": "2.2.8",
+     "title": "Matching Concept",
+     "level": 2
+    },
+    {
+     "no": "2.2.9",
+     "title": "Full Disclosure Concept",
+     "level": 2
+    },
+    {
+     "no": "2.2.10",
+     "title": "Consistency Concept",
+     "level": 2
+    },
+    {
+     "no": "2.2.11",
+     "title": "Conservatism Concept",
+     "level": 2
+    },
+    {
+     "no": "2.2.12",
+     "title": "Materiality Concept",
+     "level": 2
+    },
+    {
+     "no": "2.2.13",
+     "title": "Objectivity Concept",
+     "level": 2
+    },
+    {
+     "no": "2.3",
+     "title": "Systems of Accounting",
+     "level": 1
+    },
+    {
+     "no": "2.4",
+     "title": "Basis of Accounting",
+     "level": 1
+    },
+    {
+     "no": "2.5",
+     "title": "Accounting Standards",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "chapter": 3,
+   "title": "Recording of Transactions-I",
+   "file": "keac103.pdf",
+   "pdf_pages": 53,
+   "sections": [
+    {
+     "no": "3.1",
+     "title": "Business Transactions and Source Document",
+     "level": 1
+    },
+    {
+     "no": "3.1.1",
+     "title": "Preparation of Accounting Vouchers",
+     "level": 2
+    },
+    {
+     "no": "3.2",
+     "title": "Accounting Equation",
+     "level": 1
+    },
+    {
+     "no": "3.3",
+     "title": "Using Debit and Credit",
+     "level": 1
+    },
+    {
+     "no": "3.3.1",
+     "title": "Rules of Debit and Credit",
+     "level": 2
+    },
+    {
+     "no": "3.4",
+     "title": "Books of Original Entry",
+     "level": 1
+    },
+    {
+     "no": "3.4.1",
+     "title": "Journal",
+     "level": 2
+    },
+    {
+     "no": "3.5",
+     "title": "The Ledger",
+     "level": 1
+    },
+    {
+     "no": "3.5.1",
+     "title": "Classification of Ledger Accounts",
+     "level": 2
+    },
+    {
+     "no": "3.6",
+     "title": "Posting from Journal",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "chapter": 4,
+   "title": "Recording of Transactions-II",
+   "file": "keac104.pdf",
+   "pdf_pages": 61,
+   "sections": [
+    {
+     "no": "4.1",
+     "title": "Cash Book",
+     "level": 1
+    },
+    {
+     "no": "4.1.1",
+     "title": "Single Column Cash Book",
+     "level": 2
+    },
+    {
+     "no": "4.1.2",
+     "title": "Double Column Cash Book",
+     "level": 2
+    },
+    {
+     "no": "4.1.3",
+     "title": "Petty Cash Book",
+     "level": 2
+    },
+    {
+     "no": "4.1.4",
+     "title": "Balancing of Cash Book",
+     "level": 2
+    },
+    {
+     "no": "4.2",
+     "title": "Purchases (Journal) Book",
+     "level": 1
+    },
+    {
+     "no": "4.3",
+     "title": "Purchases Return (Journal) Book",
+     "level": 1
+    },
+    {
+     "no": "4.4",
+     "title": "Sales (Journal) Book",
+     "level": 1
+    },
+    {
+     "no": "4.5",
+     "title": "Sales Return (Journal) Book",
+     "level": 1
+    },
+    {
+     "no": "4.6",
+     "title": "Journal Proper",
+     "level": 1
+    },
+    {
+     "no": "4.7",
+     "title": "Balancing the Accounts",
+     "level": 1
+    }
+   ]
+  },
+  {
+   "chapter": 5,
+   "title": "Bank Reconciliation Statement",
+   "file": "keac105.pdf",
+   "pdf_pages": 20,
+   "sections": [
+    {
+     "no": "5.1",
+     "title": "Need for Reconciliation",
+     "level": 1
+    },
+    {
+     "no": "5.1.1",
+     "title": "Timing Differences",
+     "level": 2
+    },
+    {
+     "no": "5.1.2",
+     "title": "Differences Caused by Errors",
+     "level": 2
+    },
+    {
+     "no": "5.2",
+     "title": "Preparation of Bank Reconciliation Statement",
+     "level": 1
+    },
+    {
+     "no": "5.2.1",
+     "title": "Preparation of Bank Reconciliation Statement without adjusting Cash",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "chapter": 6,
+   "title": "Trial Balance and Rectification of Errors",
+   "file": "keac106.pdf",
+   "pdf_pages": 46,
+   "sections": [
+    {
+     "no": "6.1",
+     "title": "Meaning of Trial Balance",
+     "level": 1
+    },
+    {
+     "no": "6.2",
+     "title": "Objectives of Preparing the Trial Balance",
+     "level": 1
+    },
+    {
+     "no": "6.2.1",
+     "title": "To Ascertain the Arithmetical Accuracy of Ledger Accounts",
+     "level": 2
+    },
+    {
+     "no": "6.2.2",
+     "title": "To Help in Locating Errors",
+     "level": 2
+    },
+    {
+     "no": "6.2.3",
+     "title": "To Help in the Preparation of the Financial Statements",
+     "level": 2
+    },
+    {
+     "no": "6.3",
+     "title": "Preparation of Trial Balance",
+     "level": 1
+    },
+    {
+     "no": "6.3.1",
+     "title": "Totals method",
+     "level": 2
+    },
+    {
+     "no": "6.3.2",
+     "title": "Balances Method",
+     "level": 2
+    },
+    {
+     "no": "6.3.3",
+     "title": "Totals-cum-balances Method",
+     "level": 2
+    },
+    {
+     "no": "6.4",
+     "title": "Significance of Agreement of Trial Balance",
+     "level": 1
+    },
+    {
+     "no": "6.4.1",
+     "title": "Classification of Errors",
+     "level": 2
+    },
+    {
+     "no": "6.4.2",
+     "title": "Errors of Commission",
+     "level": 2
+    },
+    {
+     "no": "6.4.3",
+     "title": "Errors of Omission",
+     "level": 2
+    },
+    {
+     "no": "6.4.4",
+     "title": "Errors of Principle",
+     "level": 2
+    },
+    {
+     "no": "6.4.5",
+     "title": "Compensating Errors",
+     "level": 2
+    },
+    {
+     "no": "6.5",
+     "title": "Searching of Errors",
+     "level": 1
+    },
+    {
+     "no": "6.6",
+     "title": "Rectification of Errors",
+     "level": 1
+    },
+    {
+     "no": "6.6.1",
+     "title": "Rectification of Errors which do not Affect the Trial Balance",
+     "level": 2
+    },
+    {
+     "no": "6.6.2",
+     "title": "Rectification of Errors Affecting Trial Balance",
+     "level": 2
+    },
+    {
+     "no": "6.6.3",
+     "title": "Rectification of Errors in the Next Accounting Year",
+     "level": 2
+    }
+   ]
+  },
+  {
+   "chapter": 7,
+   "title": "Depreciation, Provisions and Reserves",
+   "file": "keac107.pdf",
+   "pdf_pages": 51,
+   "sections": [
+    {
+     "no": "7.1",
+     "title": "Depreciation",
+     "level": 1
+    },
+    {
+     "no": "7.1.1",
+     "title": "Meaning of Depreciation",
+     "level": 2
+    },
+    {
+     "no": "7.1.2",
+     "title": "Features of Depreciation",
+     "level": 2
+    },
+    {
+     "no": "7.2",
+     "title": "Depreciation and other Similar Terms",
+     "level": 1
+    },
+    {
+     "no": "7.2.1",
+     "title": "Depletion",
+     "level": 2
+    },
+    {
+     "no": "7.2.2",
+     "title": "Amortisation",
+     "level": 2
+    },
+    {
+     "no": "7.3",
+     "title": "Causes of Depreciation",
+     "level": 1
+    },
+    {
+     "no": "7.3.1",
+     "title": "Wear and Tear due to Use or Passage of Time",
+     "level": 2
+    },
+    {
+     "no": "7.3.2",
+     "title": "Expiration of Legal Rights",
+     "level": 2
+    },
+    {
+     "no": "7.3.3",
+     "title": "Obsolescence",
+     "level": 2
+    },
+    {
+     "no": "7.3.4",
+     "title": "Abnormal Factors",
+     "level": 2
+    },
+    {
+     "no": "7.4",
+     "title": "Need for Depreciation",
+     "level": 1
+    },
+    {
+     "no": "7.4.1",
+     "title": "Matching of Costs and Revenue",
+     "level": 2
+    },
+    {
+     "no": "7.4.2",
+     "title": "Consideration of Tax",
+     "level": 2
+    },
+    {
+     "no": "7.4.3",
+     "title": "True and Fair Financial Position",
+     "level": 2
+    },
+    {
+     "no": "7.4.4",
+     "title": "Compliance with Law",
+     "level": 2
+    },
+    {
+     "no": "7.5",
+     "title": "Factors Affecting the Amount of Depreciation",
+     "level": 1
+    },
+    {
+     "no": "7.5.1",
+     "title": "Cost of Asset",
+     "level": 2
+    },
+    {
+     "no": "7.5.2",
+     "title": "Estimated Net Residual Value",
+     "level": 2
+    },
+    {
+     "no": "7.5.3",
+     "title": "Depreciable Cost",
+     "level": 2
+    },
+    {
+     "no": "7.5.4",
+     "title": "Estimated Useful Life",
+     "level": 2
+    },
+    {
+     "no": "7.6",
+     "title": "Methods of Calculating Depreciation Amount",
+     "level": 1
+    },
+    {
+     "no": "7.6.1",
+     "title": "Straight Line Method",
+     "level": 2
+    },
+    {
+     "no": "7.6.2",
+     "title": "Written Down Value Method",
+     "level": 2
+    },
+    {
+     "no": "7.7",
+     "title": "Straight Line Method and Written Down Method: A Comparative Analysis",
+     "level": 1
+    },
+    {
+     "no": "7.7.1",
+     "title": "Basis of Charging Depreciation",
+     "level": 2
+    },
+    {
+     "no": "7.7.2",
+     "title": "Annual Charge of Depreciation",
+     "level": 2
+    },
+    {
+     "no": "7.7.3",
+     "title": "Total Charge Against Profit and Loss Account on Account of",
+     "level": 2
+    },
+    {
+     "no": "7.7.4",
+     "title": "Recognition by Income Tax Law",
+     "level": 2
+    },
+    {
+     "no": "7.7.5",
+     "title": "Suitability",
+     "level": 2
+    },
+    {
+     "no": "7.8",
+     "title": "Methods of Recording Depreciation",
+     "level": 1
+    },
+    {
+     "no": "7.8.1",
+     "title": "Charging Depreciation to Asset account",
+     "level": 2
+    },
+    {
+     "no": "7.8.2",
+     "title": "Creating Provision for Depreciation Account/Accumulated",
+     "level": 2
+    },
+    {
+     "no": "7.9",
+     "title": "Disposal of Asset",
+     "level": 1
+    },
+    {
+     "no": "7.9.1",
+     "title": "Use of Asset Disposal Account",
+     "level": 2
+    },
+    {
+     "no": "7.10",
+     "title": "Effect of any Addition or Extension to the Existing Asset",
+     "level": 1
+    },
+    {
+     "no": "7.11",
+     "title": "Provisions",
+     "level": 1
+    },
+    {
+     "no": "7.11.1",
+     "title": "Accounting Treatment for Provisions",
+     "level": 2
+    },
+    {
+     "no": "7.12",
+     "title": "Reserves",
+     "level": 1
+    },
+    {
+     "no": "7.12.1",
+     "title": "Difference between Reserve and Provision",
+     "level": 2
+    },
+    {
+     "no": "7.12.2",
+     "title": "Types of Reserves",
+     "level": 2
+    },
+    {
+     "no": "7.12.3",
+     "title": "Difference between Revenue and Capital Reserve",
+     "level": 2
+    },
+    {
+     "no": "7.12.4",
+     "title": "Importance of Reserves",
+     "level": 2
+    },
+    {
+     "no": "7.13",
+     "title": "Secret Reserve",
+     "level": 1
+    }
+   ]
+  }
+ ]
+}
