@@ -2,8 +2,12 @@
 import os
 import random
 import sqlite3
+import tempfile
 
-DB_PATH = os.environ.get("CLASSBRAIN_DB", os.path.join(os.path.dirname(os.path.abspath(__file__)), "classbrain.db"))
+_HERE = os.path.dirname(os.path.abspath(__file__))
+if not os.access(_HERE, os.W_OK):  # read-only folder (some hosting): use a temporary folder instead
+    _HERE = tempfile.gettempdir()
+DB_PATH = os.environ.get("CLASSBRAIN_DB", os.path.join(_HERE, "classbrain.db"))
 
 
 def connect():

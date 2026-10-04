@@ -1,10 +1,11 @@
 # Teacher Class Brain - tiny prototype
 
-## Run it (no installs needed, just Python 3.9+)
-1. Open a terminal inside this folder.
-2. Run:  python app.py        (on Mac: python3 app.py)
-3. Open http://localhost:8000 in your browser.
-4. Stop it with Ctrl+C.
+## Two ways to run it
+A) LOCAL, no installs (just Python 3.9+):  python app_local.py   (Mac: python3 app_local.py)  then open http://localhost:8000
+B) STREAMLIT (this is what GitHub / Streamlit Cloud runs):
+   pip install -r requirements.txt
+   streamlit run app.py
+Stop either with Ctrl+C.
 
 The first run creates `classbrain.db` (a single-file database) and fills it with FAKE demo data.
 To reset everything, stop the app and delete `classbrain.db`.
@@ -66,3 +67,15 @@ For now the project covers Accountancy only. The other subjects still work in th
 - Not included: Part II of the textbook (bills of exchange, financial statements, etc.). Upload it later and we add its chapters.
 - tools/build_syllabus.py shows how syllabus.json was made (optional; needs the PDFs and poppler).
 - UPGRADING? Delete your old classbrain.db first.
+
+## Version 6: Streamlit + GitHub
+- app.py is now the STREAMLIT version. The old server version is app_local.py (same features).
+- requirements.txt must sit next to app.py (it only needs streamlit; pandas comes with it).
+- .gitignore keeps your database, secrets, .env and PDFs OUT of GitHub. Do not remove it.
+- On Streamlit Cloud: Main file = the path to app.py (for you: class-brain/app.py). Push to GitHub, then open the app; if it does not refresh, use "Reboot app" in Manage app.
+- Secrets (app settings > Secrets, never in code):
+    ANTHROPIC_API_KEY = "your-key"     # optional, turns on the AI checkbox
+    APP_PASSWORD = "choose-a-password" # optional, locks the app behind a password
+- The AI is OFF until someone ticks "Use AI for answers", so a public demo does not spend your credits by accident.
+- Use FAKE students only on a public app. The database file may reset when the app restarts.
+- If the install fails, try Python 3.12 in the app's Advanced settings.

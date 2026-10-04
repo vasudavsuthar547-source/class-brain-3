@@ -185,10 +185,10 @@ def ask_rules(class_id, question, subject=None):
         return _subject_answer(class_id, question, chosen)
     return _overview_answer(class_id, question)
 
-def ask(class_id, question, subject=None):
+def ask(class_id, question, subject=None, use_ai=True):
     """Uses the AI layer if an API key is set; otherwise (or if anything fails) uses the rule-based answer."""
     import llm
-    if llm.available():
+    if use_ai and llm.available():
         try:
             answer = llm.ask(class_id, question, subject)
             answer["source"] = "AI (student names hidden from the AI)"
